@@ -1,3 +1,5 @@
+![Data Engineering 4 _Large_](https://user-images.githubusercontent.com/25604111/171359691-fd4f1d9f-14d2-4de3-94d7-b46b1c9e7711.jpg)
+
 # Data_Engineering_Championship
 
 ### All you need to know about the ‘Data Engineering Championship’
