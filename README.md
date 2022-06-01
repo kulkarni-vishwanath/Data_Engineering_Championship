@@ -2,6 +2,8 @@
 
 # Data_Engineering_Championship
 
+Link to Competition [here](https://machinehack.com/hackathons/data_engineering_championship/overview).
+
 ### All you need to know about the ‘Data Engineering Championship’
 
 With the dataset provided, the participants need to analyse and create features of the following description.
